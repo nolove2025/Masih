@@ -1,7 +1,3 @@
-نمیشه داخل خود گیت هاپ بدون ترموکس اینو جایگذاری کنم
-ببین فقط ساده بهم بگو 
-چطور یه گیت هاپ درست کنم
-اینو میخوام اضافه کنم به گیت هاپ
 import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
