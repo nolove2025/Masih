@@ -76,7 +76,3 @@ if __name__ == "__main__":
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, analyze_token))
     app.run_polling()
-
-
-
-اینو چگونه در گیت هاپ ذخیره کنم
